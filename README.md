@@ -70,14 +70,3 @@ Project Outcome
 The office relocation was successfully completed, with approximately 50 workstations and three printers prepared as part of the new office environment.
 
 The project provided practical experience in large-scale IT equipment deployment, workplace technology setup, task management and working to deadlines.
-
-Project Evidence
-Project Photos
-
-Workstation Setup
-
-![Office workstation setup](<./office%20move%20setup%20.jpeg>)
-
-Dual-Monitor Workstation
-
-![Dual-monitor workstation](<./office%20move%20setup%202%20screens.jpeg>)
